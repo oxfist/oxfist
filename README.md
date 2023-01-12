@@ -1,4 +1,4 @@
-![foobar](./img/defraggin.webp)
+![foobar](./img/defrag.webp)
 
 ```
                                                     / \  //\
